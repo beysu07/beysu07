@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/beysu07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>[cite: 2]
-  <a href="https://linkedin.com/in/beyza-sude-aydın"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>[cite: 2]
-  <a href="https://huggingface.co/Beyssu"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>[cite: 2]
+  <a href="https://github.com/beysu07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/beyza-sude-aydın"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/Beyssu"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## :technologist: &nbsp;Hakkımda
 
-Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölümünde öğrenim görmekteyim[cite: 2]. LLM ve NLP teknolojileri üzerine araştırmalar yapıyor, aynı zamanda robotik sistemler ve gömülü yazılım alanlarında projeler geliştiriyorum[cite: 2]. IEEE KTÜ Öğrenci Kolu'nda gönüllü eğitmen ve koordinasyon ekibi üyesi olarak aktif rol alıyorum[cite: 2].
+Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölümünde öğrenim görmekteyim. LLM ve NLP teknolojileri üzerine araştırmalar yapıyor, aynı zamanda robotik sistemler ve gömülü yazılım alanlarında projeler geliştiriyorum. IEEE KTÜ Öğrenci Kolu'nda gönüllü eğitmen ve koordinasyon ekibi üyesi olarak aktif rol alıyorum.
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+!(https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :rocket: &nbsp;Projeler & Deneyimler
 
@@ -41,7 +41,7 @@ Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölüm
       <h4>:handshake: Gönüllülük & Organizasyon</h4>
       <ul>
         <li><strong>IEEE IABT</strong> — Koordinasyon Ekibi Üyesi olarak IEEE Türkiye Öğrenci Kolları işbirliği süreçlerini yönettim[cite: 2].</li>
-        <li><strong>IEEE KTÜ Kariyer Gelişim Günleri</strong> — Gönüllü Eğitmen & Sunucu (Hour of Code etkinliği eğitmeni)[cite: 2].</li>
+        <li><strong>IEEE KTÜ Kariyer Gelişim Günleri</strong> — Gönüllü Eğitmen & Sunucu (Hour of Code etkinliği eğitmeni).</li>
       </ul>
     </td>
   </tr>
@@ -64,11 +64,11 @@ Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölüm
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[cite: 2]
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)[cite: 2]
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)[cite: 2]
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)[cite: 2]
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)[cite: 2]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
@@ -90,5 +90,5 @@ Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölüm
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
 
 <p align="center">
-  <a href="mailto:aydinbeyzasude@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>[cite: 2]
+  <a href="mailto:aydinbeyzasude@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
