@@ -29,18 +29,18 @@ Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölüm
     <td width="50%" valign="top">
       <h4>:bulb: Yazılım & Yapay Zeka</h4>
       <ul>
-        <li><strong>NLP Intent Classification Model</strong> — "Ders Asistanı" için BERT tabanlı Türkçe NLP modeli geliştirdim (Flask REST API & Flutter entegrasyonu)[cite: 2].</li>
+        <li><strong>NLP Intent Classification Model</strong> — "Ders Asistanı" için BERT tabanlı Türkçe NLP modeli geliştirdim (Flask REST API & Flutter entegrasyonu).</li>
       </ul>
       <h4>:robot: Donanım & Robotik</h4>
       <ul>
         <li><strong>OTIKA (TEKNOFEST)</strong> — Görüntü işleme (ROS) ve donanım kontrolü (Arduino, Raspberry Pi Pico) takımı üyesi.</li>
-        <li><strong>Fiberli Lighting</strong> — Üretim ve Ar-Ge Stajyeri olarak SMT montaj hatları ve Altium ile elektronik tasarım süreçlerinde görev aldım[cite: 2].</li>
+        <li><strong>Fiberli Lighting</strong> — Üretim ve Ar-Ge Stajyeri olarak SMT montaj hatları ve Altium ile elektronik tasarım süreçlerinde görev aldım].</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>:handshake: Gönüllülük & Organizasyon</h4>
       <ul>
-        <li><strong>IEEE IABT</strong> — Koordinasyon Ekibi Üyesi olarak IEEE Türkiye Öğrenci Kolları işbirliği süreçlerini yönettim[cite: 2].</li>
+        <li><strong>IEEE IABT</strong> — Koordinasyon Ekibi Üyesi olarak IEEE Türkiye Öğrenci Kolları işbirliği süreçlerini yönettim.</li>
         <li><strong>IEEE KTÜ Kariyer Gelişim Günleri</strong> — Gönüllü Eğitmen & Sunucu (Hour of Code etkinliği eğitmeni).</li>
       </ul>
     </td>
