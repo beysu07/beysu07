@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Beyza%20Sude%20Ayd%C4%B1n&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electrical-Electronics%20Engineering%20Student%20%7C%20NLP%20%26%20Robotics&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+!(https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Beyza%20Sude%20Ayd%C4%B1n&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Electrical-Electronics%20Engineering%20Student%20%7C%20NLP%20%26%20Robotics&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Electrical-Electronics+Engineering+%F0%9F%8E%93;Building+NLP+%26+Robotics+Solutions;IEEE+Volunteer" alt="Typing SVG" /></a>
@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=beysu07&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+!(https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :technologist: &nbsp;Hakkımda
 
-Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölümünde öğrenim görmekteyim. LLM ve NLP teknolojileri üzerine araştırmalar yapıyor, aynı zamanda robotik sistemler ve gömülü yazılım alanlarında projeler geliştiriyorum. IEEE KTÜ Öğrenci Kolu'nda gönüllü eğitmen ve koordinasyon ekibi üyesi olarak aktif rol alıyorum.
+Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölümünde öğrenim görmekteyim. LLM ve NLP teknolojileri üzerine araştırmalar yapıyor, aynı zamanda robotik sistemler ve gömülü yazılım alanlarında projeler geliştiriyorum.Öğrenci topluluklarında yer alıyorum.
 
 !(https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -33,7 +33,7 @@ Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölüm
       </ul>
       <h4>:robot: Donanım & Robotik</h4>
       <ul>
-        <li><strong>OTIKA (TEKNOFEST)</strong> — Görüntü işleme (ROS) ve donanım kontrolü (Arduino, Raspberry Pi Pico) takımı üyesi[cite: 2].</li>
+        <li><strong>OTIKA (TEKNOFEST)</strong> — Görüntü işleme (ROS) ve donanım kontrolü (Arduino, Raspberry Pi Pico) takımı üyesi.</li>
         <li><strong>Fiberli Lighting</strong> — Üretim ve Ar-Ge Stajyeri olarak SMT montaj hatları ve Altium ile elektronik tasarım süreçlerinde görev aldım[cite: 2].</li>
       </ul>
     </td>
