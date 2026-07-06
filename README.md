@@ -1,5 +1,5 @@
 
-
+(https://beysu07.github.io/beysu07github.io/)
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Electrical-Electronics+Engineering+%F0%9F%8E%93;Building+NLP+%26+Robotics+Solutions;IEEE+Volunteer" alt="Typing SVG" /></a>
 </p>
@@ -20,7 +20,7 @@
 
 Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölümünde öğrenim görmekteyim. LLM ve NLP teknolojileri üzerine araştırmalar yapıyor, aynı zamanda robotik sistemler ve gömülü yazılım alanlarında projeler geliştiriyorum.Öğrenci topluluklarında yer alıyorum.
 
-!(https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+
 
 ## :rocket: &nbsp;Projeler & Deneyimler
 
@@ -47,7 +47,7 @@ Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölüm
   </tr>
 </table>
 
-(https://beysu07.github.io/beysu07github.io/)
+
 
 ## :wrench: &nbsp;Çalışma Alanları
 
@@ -72,7 +72,7 @@ Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölüm
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+
 
 ## :bar_chart: &nbsp;GitHub İstatistikleri
 
@@ -87,7 +87,7 @@ Karadeniz Teknik Üniversitesi (KTÜ) Elektrik-Elektronik Mühendisliği bölüm
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beysu07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" height="170" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
+
 
 <p align="center">
   <a href="mailto:aydinbeyzasude@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
